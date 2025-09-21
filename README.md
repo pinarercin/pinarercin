@@ -1,6 +1,6 @@
 # 👋 Let me introduce myself, I'm Pınar Erçin.  
 
-**AI Enthusiast | LLM & Computer Vision**  
+**AI & Data Engineering Student at ITU | LLM & Computer Vision**  
 
 ---
 
