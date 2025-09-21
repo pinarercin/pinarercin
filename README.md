@@ -32,3 +32,10 @@
 ## 🌱 Current Focus  
 - Exploring applications of **LLMs**, including retrieval-augmented generation (RAG).  
 - Advancing skills in **Computer Vision** with detection and recognition models.  
+
+---
+
+## 🌐 Contact  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinar-ercin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinarrercinn@gmail.com)
