@@ -24,7 +24,7 @@
 - 😊 [**Emotion Detection Model for Children with Autism**](https://github.com/Unuvar59/DL_autism_project)  
   Built a deep learning model using **ResNet-50** and **Grad-CAM** to detect emotions in autistic children, improving accessibility for assistive and therapeutic applications.  
 
-- 💄 [**Virtual Beeuty – Virtual Makeup Try-On**](https://github.com/edakucukkara/Computer-Vision-Project)  
+- 💄 [**Virtual Beeuty – Virtual Makeup Try-On**](https://github.com/pinarercin/Virtual-Beeuty-Project)  
   Designed a virtual makeup try-on system with **rule-based rendering** and a **style-injected U-Net (ResNet-34 + AdaIN)**, generating realistic makeup synthesis with high structural similarity.  
 
 ---
