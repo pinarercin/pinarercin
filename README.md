@@ -19,7 +19,7 @@
 ## 📂 Projects  
 
 - 👶🏼 **BabyNet – Multitask Emotion Recognition in Children** *(Private Repository)*  
-  Undergraduate thesis project focused on multitask facial emotion recognition in infants and young children. Developed a deep learning framework jointly predicting **categorical emotions** and **valence–arousal (VA)**, built a comprehensive **data cleaning pipeline**, implemented **ResNet-50** and **Transformer-based** architectures with **cross-attention**, and applied **Optuna** for hyperparameter optimization.
+  Undergraduate thesis project focused on multitask facial emotion recognition in infants and young children. Developed a deep learning framework jointly predicting **categorical emotions** and **valence–arousal (VA)**, built a comprehensive **data cleaning pipeline**, implemented **ResNet-50** and **Transformer-based** architectures, applied **Optuna** for hyperparameter optimization.
 
 - 🏨 [**Hotel Reservation System**](https://github.com/Unuvar59/Db_Hotel-Reservation-System)  
   Developed a RESTful API for hotel reservations with **JWT-based authentication**, **role-based access control**, and **Swagger documentation**, ensuring secure and well-documented service management.  
